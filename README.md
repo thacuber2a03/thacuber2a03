@@ -2,7 +2,7 @@
 
 - self-taught, self-proclaimed systems engineer (*really* likes writing CLIs for *fun*, apparently)
   - born and raised in the DR (WOOOOOOOOOOOO)
-- programming language enthusiast (hasn't been seen settling down on a single language at all lately)
+- programming language enthusiast (~~hasn't been seen settling down on a single language at all lately~~ nevermind, fixated on Zig atm)
   - as an aside, interested in ***COMPUTATION ITSELF*** (functional programming) by way of Lisp-dialects-a-lot (I also like OCaml)
   - basically, interested on whatever "computation" means this week
   - ...ok, no, just, generally interested in everything (are there any articles remotely related to audio programming???)
